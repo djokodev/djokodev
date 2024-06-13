@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Ne jamais abandonner, c'est le nindô que je suis ! <br>Passionné par le développement backend, je me spécialise dans la création d'API REST <br>et d'applications web robustes avec Django. Avec une expertise particulière dans la gestion<br>et l'optimisation des systèmes, je construis des applications performantes et évolutives. ##
+## Ne jamais abandonner, c'est le nindô que je suis ! <br>Passionné par le développement backend, je me spécialise dans la création d'API REST <br>et d'applications web robustes avec Django. Avec une expertise particulière dans la gestion et l'optimisation des systèmes, je construis des applications performantes et évolutives. ##
 
 
 ## 🌐 Socials:
