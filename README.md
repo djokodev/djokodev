@@ -1,3 +1,4 @@
+![github_banner](https://github.com/djokodev/djokodev/assets/161902861/1ec23648-634b-48d9-86cb-d3bc093eb6e8)
 # 💫 About Me:
 ### Ne jamais abandonner, c'est le nindô que je suis !<br>Passionné par le développement backend, je me spécialise dans la création d'API REST<br>et d'applications web robustes avec Django. Avec une expertise particulière dans la gestion et l'optimisation des systèmes, je construis des applications performantes et évolutives. ###
 
