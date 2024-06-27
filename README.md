@@ -1,6 +1,12 @@
 ![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/djokodev/djokodev/assets/161902861/7f5a46ae-4dcf-4efc-b90a-b491144d0472)
 # 💫 About Me:
-### Ne jamais abandonner, c'est le nindô que je suis !<br>Passionné par le développement backend, je me spécialise dans la création d'API REST<br>et d'applications web robustes avec Django. Avec une expertise particulière dans la gestion et l'optimisation des systèmes, je construis des applications performantes et évolutives. ###
+### 
+Never give up, that's my nindô! 
+
+Passionate about backend development, I specialize in creating REST APIs and robust web applications with Django. With particular expertise in systems management and optimization, I build high-performance, scalable applications.
+
+I am self-taught 😊
+###
 
 
 ## 🌐 Socials:
