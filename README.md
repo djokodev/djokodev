@@ -1,4 +1,3 @@
-![Black Liquid Minimalist Daily Quotes LinkedIn Banner](https://github.com/user-attachments/assets/2e5473c9-ef98-457e-893a-9e057c09a0d0)
 # 💫 About Me:
 ### 
 Never give up, that's my nindô! 
