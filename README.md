@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### 
 Never give up, that's my nindô! 
 
