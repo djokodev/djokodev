@@ -2,7 +2,7 @@
 ### 
 Never give up, that's my nindô! 
 
-Passionate about backend development, I specialize in creating REST APIs and robust web applications with Django. With particular expertise in systems management and optimization, I build high-performance, scalable applications.
+Passionate about backend development, I specialize in creating (REST & GraphQL) APIs and robust web applications with Django. With particular expertise in systems management and optimization, I build high-performance, scalable applications.
 
 ###
 
