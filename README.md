@@ -2,9 +2,7 @@
 ### 
 My name is Djoko Christian and I solve problems using python.
 
-
-I specialize in API development to build scalable, impactful applications.
-
+I build solutions using Python as my tool and Django as my playground. I also handle Cloud DevOps to ensure smooth deployment and infrastructure automation.
 
 My Developer Philosophy:
 
@@ -15,11 +13,15 @@ My Developer Philosophy:
 🤝 Collaboration, adaptability and a growth mindset drive me.
 
 
-🫠 Mathematics and IA Enthusiast
+🫠IA Enthusiast
 
 
 Don't hesitate to contact me if you have a problem to solve ☺️
 
+---------------------------------------------------------------------
+Phone (WhatsApp): +237 652 26 03 68
+Email: djoko.dev.pro@gmail.com
+---------------------------------------------------------------------
 ###
 
 
