@@ -1,28 +1,30 @@
-# About Me:
-### 
-My name is Djoko Christian and I solve problems using python.
+# 👨🏾‍💻 About Me
 
-I build solutions using Python as my tool and Django as my playground. I also handle Cloud DevOps to ensure smooth deployment and infrastructure automation.
+### Hey, I'm Djoko Christian — I solve problems using Python.
 
-My Developer Philosophy:
+I craft digital solutions with **Python** as my main tool and **Django** as my playground.  
+I also manage **Cloud & DevOps** operations to ensure smooth deployments and automate infrastructure.
 
-🔥 Always learning, always growing.
+---
 
-🛠️ Transformer ideas into reality with clean, efficient and maintainable code.
+## Developer Philosophy
 
-🤝 Collaboration, adaptability and a growth mindset drive me.
+🔥 **Always learning, always growing** – I'm passionate about constantly improving my skills.  
+🛠️ **Turning ideas into reality** – I build clean, efficient, and maintainable code to bring concepts to life.  
+🤝 **Team spirit & adaptability** – I believe in collaboration, curiosity, and a growth mindset.  
 
+**AI Enthusiast** – I'm deeply interested in the future of artificial intelligence and its applications.
 
-🫠IA Enthusiast
+---
 
+## Let's Connect
 
-Don't hesitate to contact me if you have a problem to solve ☺️
+Don't hesitate to reach out if you have a problem to solve or a project in mind 😊
 
----------------------------------------------------------------------
-Phone (WhatsApp): +237 652 26 03 68
+Website: [https://djokodev.com/](https://djokodev.com/)  
+WhatsApp: +237 652 26 03 68  
 Email: djoko.dev.pro@gmail.com
----------------------------------------------------------------------
-###
 
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
