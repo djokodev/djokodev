@@ -3,7 +3,7 @@
 ### Hey, I'm Djoko Christian — I solve problems using Python.
 
 I craft digital solutions with **Python** as my main tool and **Django** as my playground.  
-I also manage **Cloud & DevOps** operations to ensure smooth deployments and automate infrastructure.
+I also manage **DevOps** operations to ensure smooth deployments and automate infrastructure.
 
 ---
 
