@@ -1,8 +1,8 @@
 # 👨🏾‍💻 About Me
 
 Hey, I'm Djoko Christian I solve problems using Python.
-
 Let's build something great together 🙃
+
 ---
 
 ## Let's Connect
